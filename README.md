@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ratan Srivastav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge. 🧠</h3>
 <img align='right' alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **ratan74082@gmail.com**
