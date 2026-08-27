@@ -2,16 +2,16 @@
 <h3 align="center">Aspiring Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=37BCF7&center=true&width=1000&lines=Turning+coffee+into+code+%E2%98%95%E2%86%92+%F0%9F%92%BB;404%3A+Sleep+Not+Found;git+commit+-m+%22fixed+bug+(probably+created+3+more)%22;MERN+Stack%3F+More+like+MERN+SMOOTH+%F0%9F%98%8E;while(alive)+%7B+code()%3B+%7D;React-ing+to+every+challenge+%E2%9A%9B%EF%B8%8F;npm+install+confidence;Deploying+dreams+to+production+%F0%9F%9A%80;Full+Stack+Developer+%7C+IoT+Enthusiast;Bug+hunter+by+day%2C+debugger+by+night;Stack+Overflow+saved+my+life+(again);Ctrl%2BS+is+my+love+language;async+await-ing+my+dreams;Making+things+talk+to+the+internet+%F0%9F%8C%90;Professional+Googler+%26+Code+Wrangler;Hot+reload+my+career+%F0%9F%94%A5;From+Hello+World+to+Hello+Production;Semicolon+optional%2C+passion+mandatory;Building+APIs+while+APIs+build+me;Open+to+New+Opportunities+%F0%9F%9A%80;Living+in+the+terminal+(send+help);One+commit+closer+to+greatness;IoT+%3D+Internet+of+Things+%2B+Too+much+coffee">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=37BCF7&center=true&width=1000&lines=Turning+coffee+into+code;404%3A+Sleep+Not+Found;git+commit+-m+%22fixed+bug+(probably+created+3+more)%22;MERN+Stack%3F+More+like+MERN+SMOOTH;while(alive)+%7B+code()%3B+%7D;React-ing+to+every+challenge;npm+install+confidence;Deploying+dreams+to+production;Full+Stack+Developer+%7C+IoT+Enthusiast;Bug+hunter+by+day%2C+debugger+by+night;Stack+Overflow+saved+my+life+(again);Ctrl%2BS+is+my+love+language;async+await-ing+my+dreams;Making+things+talk+to+the+internet;Professional+Googler+%26+Code+Wrangler;Hot+reload+my+career;From+Hello+World+to+Hello+Production;Semicolon+optional%2C+passion+mandatory;Building+APIs+while+APIs+build+me;Open+to+New+Opportunities;Living+in+the+terminal+(send+help);One+commit+closer+to+greatness;IoT+%3D+Internet+of+Things+%2B+Too+much+coffee">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+  <a href="https://github.com/ratan7408" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ratan7408-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://linkedin.com/in/ratan srivastav" target="_blank">
+  <a href="https://www.linkedin.com/in/ratan-srivastav/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/ratan_srivastav_" target="_blank">
@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -56,20 +56,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratan7408&show_icons=true&locale=en&theme=radical" alt="ratan7408" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ratan7408&show_icons=true&locale=en&theme=radical&hide=contribs" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratan7408&theme=radical" alt="ratan7408" />
+  <img src="https://streak-stats.demolab.com/?user=ratan7408&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratan7408&layout=compact&theme=radical" alt="ratan7408" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ratan7408&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ratan srivastav" target="_blank">
+  <a href="https://www.linkedin.com/in/ratan-srivastav/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://fb.com/ratan srivastav" target="_blank">
+  <a href="https://www.facebook.com/ratan.srivastav" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://instagram.com/ratan_srivastav_" target="_blank">
@@ -79,21 +79,21 @@
 
 <!-- BONUS LINES — swap any into the typing SVG above -->
 <!--
-Turning coffee into code ☕→ 💻
+Turning coffee into code
 404: Sleep Not Found
 git commit -m "fixed bug (probably created 3 more)"
-MERN Stack? More like MERN SMOOTH 😎
+MERN Stack? More like MERN SMOOTH
 while(alive) { code(); }
-React-ing to every challenge ⚛️
+React-ing to every challenge
 npm install confidence
-Deploying dreams to production 🚀
+Deploying dreams to production
 Bug hunter by day, debugger by night
 Stack Overflow saved my life (again)
 Ctrl+S is my love language
 async await-ing my dreams
-Making things talk to the internet 🌐
+Making things talk to the internet
 Professional Googler & Code Wrangler
-Hot reload my career 🔥
+Hot reload my career
 From Hello World to Hello Production
 Semicolon optional, passion mandatory
 Living in the terminal (send help)
@@ -108,7 +108,7 @@ I speak fluent JavaScript & broken English
 Coding at 3AM hits different
 My code works... I have no idea why
 In a relationship with React (it's complicated)
-sudo make me a sandwich 🥪
+sudo make me a sandwich
 Warning: May spontaneously talk about MERN
 Powered by caffeine & curiosity
 Turning bugs into features since 2020
