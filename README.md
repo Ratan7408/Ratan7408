@@ -2,7 +2,11 @@
 <h3 align="center">Aspiring Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=37BCF7&center=true&width=1000&lines=Turning+coffee+into+code;404%3A+Sleep+Not+Found;git+commit+-m+%22fixed+bug+(probably+created+3+more)%22;MERN+Stack%3F+More+like+MERN+SMOOTH;while(alive)+%7B+code()%3B+%7D;React-ing+to+every+challenge;npm+install+confidence;Deploying+dreams+to+production;Full+Stack+Developer+%7C+IoT+Enthusiast;Bug+hunter+by+day%2C+debugger+by+night;Stack+Overflow+saved+my+life+(again);Ctrl%2BS+is+my+love+language;async+await-ing+my+dreams;Making+things+talk+to+the+internet;Professional+Googler+%26+Code+Wrangler;Hot+reload+my+career;From+Hello+World+to+Hello+Production;Semicolon+optional%2C+passion+mandatory;Building+APIs+while+APIs+build+me;Open+to+New+Opportunities;Living+in+the+terminal+(send+help);One+commit+closer+to+greatness;IoT+%3D+Internet+of+Things+%2B+Too+much+coffee">
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=INIT+RATAN7408+DEV+MODE...&animation=glitch&color=00F0FF&background=0D1117FF&size=14&width=900&duration=2000&pause=300&repeat=true" alt="Boot Sequence"/>
+</p>
+
+<p align="center">
+  <img src="https://scribesvg.vercel.app/api/render?lines=while(alive)+%7B+code()%3B+%7D%3B404%3A+Sleep+Not+Found%3Bgit+commit+-m+%22fixed+bug+(probably+created+3+more)%22%3Bnpm+install+confidence%3BMERN+Stack%3F+More+like+MERN+SMOOTH%3BReact-ing+to+every+challenge%3BLiving+in+the+terminal+(send+help)%3BStack+Overflow+saved+my+life+(again)%3Bsudo+make+me+a+sandwich%3BHot+reload+my+career%3BBreaking+prod+so+you+don%27t+have+to%3BError+418%3A+I%27m+a+teapot%3BCtrl%2BS+is+my+love+language%3BOne+commit+closer+to+greatness%3BIoT+%3D+Internet+of+Things+%2B+Too+much+coffee%3BMy+code+works...I+have+no+idea+why%3BIn+a+relationship+with+React+(it%27s+complicated)&theme=cyberpunk&layout=terminal&font=VT323&width=950&height=160&typingSpeed=40&deletingSpeed=18&pause=450&glow=16&cursorStyle=block&center=true" alt="Typing Terminal"/>
 </p>
 
 <p align="center">
